@@ -2,7 +2,7 @@
 - 👀 I’m interested in arts digitals, modeling 3D, technology
 - 🌱I'm currently learning systems development and a little modeling
 - 💞️ I'm looking to collaborate on some systems
-- 📫 How to contact me: nathyyren@gmail.com
+- 📫 How to contact me: nathaliarenata1999@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
