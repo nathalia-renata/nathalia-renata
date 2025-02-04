@@ -14,4 +14,4 @@ Redes sociais:
 Ilustrações  :https://www.instagram.com/nr.artdigital
 
 
-Pessoal: https://www.instagram.com/nathaliarenata_
+Pessoal: https://www.instagram.com/nathaliarenata_.
