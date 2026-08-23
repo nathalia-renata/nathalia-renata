@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a **Nathália Renata**!
 
-Graduanda em **Ciência da Computação** | Formada em **Técnica em Desenvolvimento de Sistemas**
+Cursando graduação em **Ciência da Computação** | Formada em **Técnico em Desenvolvimento de Sistemas**
 
 ---
 
@@ -15,8 +15,7 @@ Graduanda em **Ciência da Computação** | Formada em **Técnica em Desenvolvim
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalia-renata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-renata&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=nathalia-renata&theme=tokyonight" />
 </div>
 
 ---
@@ -27,12 +26,18 @@ Graduanda em **Ciência da Computação** | Formada em **Técnica em Desenvolvim
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![MediBang Paint](https://img.shields.io/badge/MediBang_Paint-00A0E9?style=for-the-badge)
+![CorelDraw](https://img.shields.io/badge/CorelDRAW-00A859?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### **Análise de Dados & Banco de Dados**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Sistemas Corporativos & Versionamento**
 ![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
